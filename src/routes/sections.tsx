@@ -43,9 +43,7 @@ export const routesSection: RouteObject[] = [
         </Suspense>
       </DashboardLayout>
     ),
-    children: [
-      { index: true, element: <DashboardPage /> },
-    ],
+    children: [{ index: true, element: <DashboardPage /> }],
   },
   {
     path: '404',
