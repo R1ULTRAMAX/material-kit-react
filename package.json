@@ -1,7 +1,5 @@
 {
-  "name": "@minimal/material-kit-react",
-  "author": "minimals.cc",
-  "licence": "MIT",
+  "name": "react-dashboard",
   "version": "3.0.0",
   "private": false,
   "type": "module",
