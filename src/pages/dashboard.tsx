@@ -8,10 +8,7 @@ export default function Page() {
   return (
     <>
       <title>{`Dashboard - ${CONFIG.appName}`}</title>
-      <meta
-        name="description"
-        content="An admin dashboard built with React and Material UI."
-      />
+      <meta name="description" content="An admin dashboard built with React and Material UI." />
       <meta name="keywords" content="react,material,dashboard,admin" />
 
       <DashboardView />
